@@ -1,7 +1,7 @@
 public class Resume
 {
     public string _name = "";
-    public new List<Job> _jobs = new List<Job>();
+    public List<Job> _jobs = new List<Job>();
 
     public void Display()
     {
